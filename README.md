@@ -7,7 +7,7 @@ This repository contains two practical Data Mining projects demonstrating cluste
 - **Driver clustering**
 - **Mall customer segmentation**
 
-## 📁 Project Structure
+## 📁 Project structure
 
 - `data/`: datasets used in the notebooks.
 - `notebooks/`: Jupyter notebooks explaining each step in detail.
